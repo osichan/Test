@@ -9,7 +9,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("\n Students");
         List<Object> listOfStudents = new ArrayList<>();
-        listOfStudents.add(new Student("Oskar","Saienko"));
         listOfStudents.add(new Student("Oleksandr","Sobran"));
         System.out.println(listOfStudents);
         System.out.println("\n Lectors");

@@ -11,4 +11,7 @@ public class Lector {
     private String name;
     private String surname;
 
+    public int sallery(){
+        return 1000;
+    }
 }
